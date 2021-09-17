@@ -168,16 +168,14 @@ footer{
         border-color:var(--Dark-Grayish-Red);
     }
 
-    article section .arrow,
-    .error{
-        margin:5% 0 0 -18%;
+    article section .arrow{
+        margin:5.3% 0 0 -18%;
         padding:10px 20px;
         /* visibility: visible; */
     }
 
     .error{
-        margin:7% 0;
-        left:60vw;
+        margin:7% 0 0 -30%;
         padding:2px 1px;
     }
 
